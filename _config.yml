@@ -3,6 +3,17 @@ title: Autocatalysis
 author: Jae S. Choi
 baseurl: /autocatalysis
 # theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+sidebar:
+  - home
+  - label: homeostasis
+    children:
+      - doc-1
+      - doc-2
+  - papers
+  - contact
+sidebar_label: Long Title
+search_enabled: true
+auto_page_title: true
