@@ -3,7 +3,7 @@ id: homeostasis
 title: What is ecosystem homeostasis?
 ---
 
-How is homeostasis in ecosystems maintained and when is it lost? 
+What is ecosystem homeostasis and how is it maintained and when is it lost? 
 
 What are the mechanisms by which a steady internal state is regulated even when the external environment is highly variable? 
 
