@@ -1,8 +1,6 @@
 title: Autocatalysis
 # description: This is where I share my thoughts
 author: Jae S. Choi
-baseurl: /autocatalysis
-# theme: minima
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
