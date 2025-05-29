@@ -10,8 +10,7 @@ Topology does influence the critical (synchronous) behaviour of complex middle n
 
 ### Linear Network Analysis
 
-Here is an R/Splus language implementation of the linear network analytical methods
-[(they are called R/NEA*)](https://github.com/mum0n/ecomod) originally published by Brian D. Fath and Stuart R. Borrett (2004) in MATLAB (NEA.m, version 1.0.0).
+Here is an [R-language implementation of the linear network analytical methods](https://github.com/mum0n/linear_network_analysis) originally published by Brian D. Fath and Stuart R. Borrett (2004) in MATLAB (NEA.m, version 1.0.0).
  
 An example of usage is demonstrated: 
 
