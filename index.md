@@ -2,13 +2,6 @@
 title: The canonical problem
 ---
 
-```
-Note: This is a transfer from my original web pages:
-
-https://sites.google.com/view/autocatalysis/contact
-
-I am going to start updating this and adding to it for prosperity.
-```
 
 How is homeostasis in ecosystems maintained and when is it lost? This is the canonical problem in the study of ecological systems and more generally of all biological systems. This website is dedicated to the exploration of the issues related to this fundamental issue -- and a few digressions. 
 
