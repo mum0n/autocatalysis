@@ -6,4 +6,4 @@ minima:
   skin: solarized-dark
   nav_pages:
     - about.md
-    - portfolio.md
+    - contact.md
