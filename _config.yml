@@ -3,7 +3,7 @@ title: Autocatalysis
 author: Jae S. Choi
 theme: minima
 minima:
-  skin: solarized
+  skin: solarized-dark
   nav_pages:
     - about.md
     - portfolio.md
