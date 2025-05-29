@@ -1,6 +1,7 @@
 ---
 id: contact
-title: Constact Information
+title: Contact Information
 ---
 
 Jae S. Choi
+

@@ -1,5 +1,5 @@
 ---
-id: homeostasis
+id: ecosystem_homeostasis
 title: What is ecosystem homeostasis?
 ---
 

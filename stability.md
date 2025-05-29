@@ -1,8 +1,12 @@
-### Stability
+---
+id: ecosystem_stability
+title: Ecosystem Stability 
+---
 
 Stability is a very old notion. 
 
 Formal study of stability can be attributed to ancient astronomers and priests from numerous civilizations as they studied the predictability of the celestial objects and natural cycles. Currently, there are very many formulations of stability. Even in the mid-1980s, Szebehely (1984) suggested at least 50 different usages in existence within the field of celestial mechanics alone (although most related to different ways of measuring or indexing similar concepts). 
+
 There seem to be two main classes of stability concepts that relate to: 
 
 - a global boundedness of a system (Lagrangian orbital stability)

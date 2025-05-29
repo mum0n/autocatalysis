@@ -1,4 +1,5 @@
 ---
+id: home
 title: The canonical problem -- homeostasis in ecosystems
 ---
 

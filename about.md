@@ -1,4 +1,7 @@
+---
+id: about
+title: What is this?
+---
 
-test nav
+Musings upon a lifetime of observations
 
-test 2
