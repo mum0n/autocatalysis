@@ -19,6 +19,3 @@ Enjoy your visit,
 
 Jae
 
-Bedford Institute of Oceanography
-1 Challenger Drive, Dartmouth, Nova Scotia, Canada, B2Y 4A2
-Email: choi.jae.seok_@_gmail _dot_com {remove the underscores}
