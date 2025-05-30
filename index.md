@@ -14,3 +14,7 @@ These ideas are not popular nor mainstream in current science which has decidedl
 *Cor meum ad te egreditur.* 
 
 Jae S Choi
+
+(Note: These webpages previously existed on sites.google.com. They have been
+updated and moved here as it is more "open".)
+
