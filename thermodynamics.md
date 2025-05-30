@@ -3,6 +3,10 @@ id: thermodynamics
 title: Thermodynamics
 ---
 
+
+[Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits.   
+
+
 Taking a pragmatic stance, thermodynamic theory provides a consistent frame of reference that no other theory can provide: an agreed upon direction of time. This directionality of time allows us to go beyond the constraints imposed by the maze of self-referential circularity and complexity found in most realistic systems of interest. 
 
 A thermodynamic analysis is explicitly a macroscopic (probabilistic) approach that embraces the spatial, temporal and organisational complexity of systems, and so avoids the majority of difficulties associated with a reductionistic approach. However, the price of this simplicity (reduced degrees of freedom) is loss of the details: mechanisms and processes. Until both the micro- and the macro- are shown to be convergent, there will be little advancement.
