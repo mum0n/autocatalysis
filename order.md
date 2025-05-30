@@ -26,7 +26,7 @@ Local-order -- the indirect action of the Second Law upon a focal system x{i=0} 
 
  
 
-[Figure: Second law asymmetry.](./media/asymmetry.png)
+![Figure: Second law asymmetry.](./media/asymmetry.png)
  
 Hierarchy -- pertaining to levels of organization, usually defined as an epistemic property to simplify complexity. The question of whether hierarchies are "real" or only mental constructs is  unresolved. Hierarchical concepts are known in the ecological literature (e.g., Allen and Starr 1982; O'Neill et al. 1986) and are the basis for such concepts as "scale" and "grain", expressed in terms of both space and time. Hierarchies of "scale" are nested (supersets, sets, subsets, ... etc.), whereas hierarchies of "control" (e.g., as in the military) are not.
  
@@ -36,7 +36,7 @@ The balance between these two antagonistic principles (both derived from the asy
 
 
 
-[Figure: Bifurcation sequence](./media/bifurcation.png) 
+![Figure: Bifurcation sequence](./media/bifurcation.png) 
  
 The immediate consequence of any alterations/manipulations (e.g., nutrient enrichment) to a system is to disturb the balance between local-order and local-disorder, which has the effect of increasing the uncertainty of the relations between all systems (across all hierarchical levels). Thus, the paradox of enrichment (sensu Rosensweig 1971: that enrichment increases dynamical uncertainty) may be expected, in the short term (ecological scales). However, in the long term (evolutionary scales), it was also shown how such manipulations that increase the relative storage (biomass) of a given system could represent a stabilising influence for that system, in that the buffering capacity of the system also increases (see below).
 
