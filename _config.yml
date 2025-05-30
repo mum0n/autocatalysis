@@ -5,7 +5,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 sidebar:
-  - welcome
+  - index
   - ecosystem_homeostasis
   - ecosystem_stability
   - ecosystem_health
