@@ -9,15 +9,14 @@ sidebar:
   - ecosystem_homeostasis
   - ecosystem_stability
   - ecosystem_health
+  - thermodynamics
   - order
   - complexity
   - network_theory 
   - incompleteness_theorem
   - soc
   - size_spectra
-  - thermodynamics
   - papers
-  - contact
   - idle_thoughts
 sidebar_label: Navigation 
 search_enabled: true

@@ -1,6 +1,6 @@
 ---
 id: soc
-title: Self-organised criticality (SOC)
+title: Self-organised criticality
 ---
  
 Iterated local interactions (e.g., continuously repeated rule based interactions between organisms -  predation, parasitism, competition, commensalism, mutualism, etc.) produce spatial, temporal, and organisational patterns that are self-similar at all scales and are known as "fractals" (Mandelbrot 1967, Schroeder 1991).
@@ -15,5 +15,6 @@ This relation is important because SOC systems are known to have some key traits
 The size-abundance relationship delimits the approximate upper bound in the numerical carrying capacity of organisms, an upper bound that is a log-linear function of organism size. Any deviations from such a log-linear state may be expected to return to this fractal-like attractive state (if indeed this represents an SOC-type pattern). The relative deviation from this state (i.e., 1 minus the coefficient of determination of the log-linear relationship) is therefore a potential measure of the relative degree of perturbation in a given system. This index was found to correspond well with the thermodynamic index of perturbation (the R/B ratio). That the results of the (near-linear, non-equilibrium) thermodynamic analysis are complementary to the SOC analysis is a very interesting finding; it implies an intimate relationship between these two approaches that have previously developed independently.
 
 While such systems are robustly stable in the statistical sense, there is an indeterminacy (i.e., non-proportionate relationship) between the magnitude of any specific cause and its effects. Even the smallest of perturbations can create an "avalanche" of cascading effects at all spatial, temporal and organisational scales. This indeterminacy between the magnitude of a cause and its effect is due to the sensitivity to initial conditions found in complex (pseudo-nonlinear and nonlinear) dissipative systems. A simple biological example of this indeterminacy is the uncertain effect of invading species, the lag before a massive population explosion of invading species, or the unpredictable occurrence of pest and disease outbreaks (e.g., spruce budworm, influenza, measles, the plague).
+
 Finally, SOC systems have been said to be poised near a state where rapid adaptive change is possible. The rates of total community energy dissipation change exponentially for slopes ~ --1 (Choi et al. 1999). That is, the system exists near a state where rapid changes in energy dissipation rates are possible with small changes in the scaling exponent, or more simply, in a state of most "adaptability" (Conrad 1983). Globally, this allows the system to rapidly adapt to variations (uncertainties) in energy inflow and outflow (Rosen 1967:105-108). That is, fluctuations in energy influxes or deficits are rapidly relaxed, resulting in the macroscopic pattern of a steady state that we can identify in the size-abundance relationship.
 
