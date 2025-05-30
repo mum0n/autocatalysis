@@ -3,17 +3,18 @@ id: order
 title: Order principles
 ---
 
-The asymmetry of local-order and local-disorder
+[Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits.   
 
-[A holarchical/heirarchical perspective]
 
-Local-order vs. local-disorder
+### The asymmetry of local-order and local-disorder - A holarchical/heirarchical perspective
+
+#### Local-order vs. local-disorder
 
 When the spatial, temporal and organisational complexities of systems are explicitly addressed in a hierarchical network thermodynamic context, the action of two principles can be delineated that are both derived from the very same Second Law of Thermodynamics:  "local-order" and "local-disorder" (Choi and Patten 2001). When "local-disorder" dominates, such a system is said to be a perturbed system. When "local-order" dominates, such a system is said to be a less perturbed system. (See definitions below).
 
 This generalisation is important because the relative balance of these two principles applies to any system, regardless of its spatial, temporal and organisational scale or composition. The R/B index has been argued and shown to be a readily measured index of this balance between the two order principles (Choi and Patten 2001).
 
-### Some definitions: 
+#### Some definitions: 
 
 Second Law of Thermodynamics -- Many descriptions exist (e.g. see the [Wikipedia description](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)). Ultimately, it is an axiom of the most general kind, that any transformation of matter-energy involves some form of loss. This inefficiency of matter-energy transformation provides the symmetry breaking directionality to time itself.
 
@@ -25,7 +26,7 @@ Local-order -- the indirect action of the Second Law upon a focal system x{i=0} 
 
  
 
-Figure: Second law asymmetry.
+[Figure: Second law asymmetry.](./media/asymmetry.png)
  
 Hierarchy -- pertaining to levels of organization, usually defined as an epistemic property to simplify complexity. The question of whether hierarchies are "real" or only mental constructs is  unresolved. Hierarchical concepts are known in the ecological literature (e.g., Allen and Starr 1982; O'Neill et al. 1986) and are the basis for such concepts as "scale" and "grain", expressed in terms of both space and time. Hierarchies of "scale" are nested (supersets, sets, subsets, ... etc.), whereas hierarchies of "control" (e.g., as in the military) are not.
  
@@ -35,7 +36,7 @@ The balance between these two antagonistic principles (both derived from the asy
 
 
 
-Figure: Bifurcation sequence 
+[Figure: Bifurcation sequence](./media/bifurcation.png) 
  
 The immediate consequence of any alterations/manipulations (e.g., nutrient enrichment) to a system is to disturb the balance between local-order and local-disorder, which has the effect of increasing the uncertainty of the relations between all systems (across all hierarchical levels). Thus, the paradox of enrichment (sensu Rosensweig 1971: that enrichment increases dynamical uncertainty) may be expected, in the short term (ecological scales). However, in the long term (evolutionary scales), it was also shown how such manipulations that increase the relative storage (biomass) of a given system could represent a stabilising influence for that system, in that the buffering capacity of the system also increases (see below).
 
