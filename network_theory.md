@@ -9,13 +9,13 @@ MacArthur clearly expressed this question in a classic paper. Others have studie
 
 Current approaches are many: Patten, Ulanowicz, Oster. And many recent studies of Self-organised critical systems and small world networks are striking and deeply resonant with the stability characteristics of the most general networks.
 
-Topology does influence the critical (synchronous) behaviour of complex middle number systems.
+Topology does influence the critical (synchronous) behaviour of complex middle number systems. 
  
 
 ### Linear Network Analysis
 
-Here is an [R-language implementation of the linear network analytical methods](https://github.com/mum0n/linear_network_analysis) originally published by Brian D. Fath and Stuart R. Borrett (2004) in MATLAB (NEA.m, version 1.0.0).
- 
+Here is an [R-language implementation of some of the linear network analytical methods](https://github.com/mum0n/linear_network_analysis) originally published by Brian D. Fath and Stuart R. Borrett (2004) in MATLAB (NEA.m, version 1.0.0).
+
 An example of usage is demonstrated: 
 
 ```
@@ -49,33 +49,37 @@ F = matrix( c(0, 0, 0, 0, 0, 0,
               0, 0.6431, 1.2060, 0.6609, 0, 0,
               0.5135, 0, 0, 0, 0.1721, 0),
             nrow=length(Compartments), byrow=T, dimnames=list(Compartments,Compartments)  )
+
 # Steady-State Storage Vector
 x = c(2000, 1000, 2.4121, 24.121, 16.274, 69.237)   
+
 # Steady-state Input Vector
 z = c(41.4697, 0, 0, 0, 0, 0)
+
 # Steady-State Outputs
 y = c(25.1646, 6.1759, 5.7600, 3.5794, 0.4303, 0.3594)
+
 # Ensure steady-state
-  check.data( F,z )
+check.data( F,z )
+
 # Structural Analysis
-  SAnal = NEA_structure(F)
-  SAnal
+(SAnal = NEA_structure(F))
+
 # Throughflow Analysis
-  TFAnal = NEA_throughflow(F,y,z)
-  TFAnal
+(TFAnal = NEA_throughflow(F,y,z))
+
 # Storage Analysis
-  StAnal = NEA_storage(F,x)
-  StAnal
- 
+(StAnal = NEA_storage(F,x))
+
 # Utility Analysis
-  UtAnal = NEA_utility(F,x)
-  UtAnal
+(UtAnal = NEA_utility(F,x) )
+
 # Unit Environ Analysis
-  Unit.Environs = NEA_u_environs(TFAnal, StAnal)
-  Unit.Environs
+(Unit.Environs = NEA_u_environs(TFAnal, StAnal))
+
 # Control Analysis
-  CtrlAnal = NEA_control( TFAnal, StAnal )
-  CtrlAnal
+(CtrlAnal = NEA_control( TFAnal, StAnal ) )
+
 ```
 
 ### Source

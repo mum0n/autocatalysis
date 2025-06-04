@@ -6,9 +6,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 sidebar:
   - index
-  - ecosystem_homeostasis
   - ecosystem_stability
-  - ecosystem_health
+  - ecosystem_health_homeostasis
   - thermodynamics
   - order
   - complexity
@@ -16,7 +15,6 @@ sidebar:
   - incompleteness_theorem
   - soc
   - size_spectra
-  - papers
   - idle_thoughts
 sidebar_label: Navigation 
 search_enabled: true

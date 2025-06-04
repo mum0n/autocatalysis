@@ -4,7 +4,7 @@ title: Thermodynamics
 ---
 
 
-[Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits.   
+[Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits. [A local copy can be found here](media/thermodynamics_onsager.pdf).
 
 
 Taking a pragmatic stance, thermodynamic theory provides a consistent frame of reference that no other theory can provide: an agreed upon direction of time. This directionality of time allows us to go beyond the constraints imposed by the maze of self-referential circularity and complexity found in most realistic systems of interest. 
