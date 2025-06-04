@@ -15,6 +15,9 @@ These ideas are not popular nor mainstream in current science which has decidedl
 
 Jae S Choi
 
-(Note: These webpages previously existed on sites.google.com. They have been
-updated and moved here as it is more "open".)
+
+*Note: 
+
+These webpages previously existed on https://sites.google.com/autocatalysis. They have been
+moved here and updated.*
 
