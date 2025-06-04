@@ -15,7 +15,11 @@ sidebar:
   - incompleteness_theorem
   - soc
   - size_spectra
-  - idle_thoughts
+  - label: Idle thoughts
+    children:
+      - idle_thought_1
+      - idle_thought_2
+
 sidebar_label: Navigation 
 search_enabled: true
 auto_page_title: true
