@@ -3,6 +3,8 @@ id: ecosystem_stability
 title: Ecosystem Stability 
 ---
 
+Before trying to get to homeostasis of an ecosystem, we need a bit of background on the closely connected notion of stability.
+
 Stability is a very old notion. 
 
 Formal study of stability can be attributed to ancient astronomers and priests from numerous civilizations as they studied the predictability of the celestial objects and natural cycles. Currently, there are very many formulations of stability. Even in the mid-1980s, Szebehely (1984) suggested at least 50 different usages in existence within the field of celestial mechanics alone (although most related to different ways of measuring or indexing similar concepts). 
@@ -21,7 +23,12 @@ The awareness of the three-body-problem in physics drove home the point that:
 
 The need for a complete re-think on the nature of stability was evident. It is currently an ongoing process that is still in its infancy. 
 
-Add to this the complex and mutli-dimensional nature of ecological systems and one can but expect the current  perplexedness of most ecologists on the notion of stability (myself included!). Everyone has an opinion but no-one agrees. In ecology, there are also many variants of stability (in meaning and measurement) although perhaps not as many as in celestial mechanics. 
+Add to this the complex and mutli-dimensional nature of ecological systems and one can but expect the current *perplexedness* of most ecologists on the notion of stability (myself included!). Everyone has an opinion but no-one agrees. In ecology, there are also many variants of stability (in meaning and measurement). 
+
+[In the following document, I try to formulate a coherent perspective upon it. I hope you find it useful.](media/homeostasis.pdf)
+
+I will summarize it here when I can.
+
 
 #### References
 

@@ -20,8 +20,12 @@ What are the mechanisms by which a steady internal state is regulated even when 
 
 When do alterations to the internal structures and functions of a system result in the breakdown of this homeostatic stability. 
 
-At the organisational scale of cell organelles, cells, endocrine systems, organs and organisms, homeostasis is a well documented phenomenon (e.g., thermoregulation, ion-regulation, hormone regulation). However, at larger organisational scales (e.g., populations, communities, landscapes, ecosystems), more than a century of effort has resulted in only controversy and confusion. 
+At the organisational scale of cell organelles, cells, endocrine systems, organs and organisms, homeostasis is a well documented phenomenon (e.g., thermoregulation, ion-regulation, hormone regulation). However, at larger organisational scales (e.g., populations, communities, landscapes, ecosystems), more than a century of effort has resulted in only controversy and confusion. [In the following document, I try to formulate a coherent perspective upon it. I hope you find it useful.](media/homeostasis.pdf)
+
+Further, *homeostasis* the connection to Onsager's principle is developed in this [paper on order and disorder principles](media/thermodynamics_onsager.pdf). I will transcribe their contents here into a more digestible form when possible. 
 
 
-Homeostasis and health and their connection to Onsager's principle is developed in this [paper on order and disorder principles](media/thermodynamics_onsager.pdf). I will transcribe their contents here into a more digestible form when possible. 
 
+### References
+
+Choi, J.S. and R.I.C. Hansell. 2024. Onsager’s relations and Ecology. bioRxiv 2023.11.28.569100; doi: https://doi.org/10.1101/2023.11.28.569100 

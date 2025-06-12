@@ -3,11 +3,9 @@ id: network_theory
 title: Network theory
 ---
 
-How is a system organised. How inter-related or linked is the system. Does this have an influence upon it's structural and dynamical characterstics? Does it influence the stability of a system?
-This has been a core area of study that has waxed and waned over the years but never without any real resolution.
-MacArthur clearly expressed this question in a classic paper. Others have studied the problem numerically (i.e., May, Ashby, etc.). 
+How is a system organised. How inter-related or linked is the system. Does this have an influence upon it's structural and dynamical characterstics? Does it influence the stability of a system? This has been a core area of study that has waxed and waned over the years but never without any real resolution. MacArthur clearly expressed this question in a classic paper. Others have studied the problem numerically (i.e., May, Ashby, etc.). 
 
-Current approaches are many: Patten, Ulanowicz, Oster. And many recent studies of Self-organised critical systems and small world networks are striking and deeply resonant with the stability characteristics of the most general networks.
+Current approaches are many: Patten, Ulanowicz, Oster, and many others. Many studies of Self-organised critical systems (Per Bak and colleagues) and small world networks are striking and deeply resonant with the stability characteristics of the most general networks.
 
 Topology does influence the critical (synchronous) behaviour of complex middle number systems. 
  
@@ -86,4 +84,4 @@ check.data( F,z )
 
 Fath, B.D. & Borrett, S.R. 2004. A MATLAB function for Network Environ Analysis. Environmental Modelling and Software 21:375-405.
 
-
+Bak P, Tang C, Wiesenfeld K (July 1987). "Self-organized criticality: An explanation of the 1/f noise". Physical Review Letters. 59 (4): 381–384. doi:10.1103/PhysRevLett.59.381. PMID 10035754.

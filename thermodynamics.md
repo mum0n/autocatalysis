@@ -70,3 +70,8 @@ This thermodynamic tendency towards ever decreasing intensity of biological acti
 Empirical tests of the utility of this integrated index of the perturbation regime were attempted by comparing the R/B ratio to dominant abiotic indices of a system's sensitivity to perturbations. Due to the complex nature of real systems, isolating a single factor is difficult unless the perturbation is dominant. The size of a lake was chosen as such a dominant characteristic. The assumption being that the larger a lake, the less sensitive it is to perturbations. This represents a relatively straightforward assumption, as large lakes are simply more robust to fluctuations due to statistical size-volume averaging effects (e.g., temperature fluctuations, chemical change). Thus, lower R/B ratios were expected in larger lakes; this prediction was confirmed in Chapter 2, indicating that the thermodynamic index (the R/B ratio) may be a functional measure of the degree of perturbation of a system.
  
 
+### References 
+
+
+Choi, J.S. and R.I.C. Hansell. 2024. Onsager’s relations and Ecology. bioRxiv 2023.11.28.569100; doi: https://doi.org/10.1101/2023.11.28.569100 
+

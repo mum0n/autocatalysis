@@ -65,4 +65,4 @@ Schrödinger, E. 1945. What is life? Cambridge University Press, England. 178 pa
 
 Prigogine, I. 1947. Etude thermodynamique des phénomènes irréversibles. Desoer, Liège. 143 pages. 
 
-
+Choi, J.S. and R.I.C. Hansell. 2024. Onsager’s relations and Ecology. bioRxiv 2023.11.28.569100; doi: https://doi.org/10.1101/2023.11.28.569100 
