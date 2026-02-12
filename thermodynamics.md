@@ -7,6 +7,13 @@ title: Thermodynamics
 [Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits. [A local copy can be found here](media/thermodynamics_onsager.pdf).
 
 
+And, for the non-specialist, here are some resources generated with the help of Google NotebookLM using the above paper as the single source for LLM analysis. They are reasonably correct in getting the larger message with minimal LLM hallucination, though they do gloss over the details:  
+
+- [An audio-summary](https://notebooklm.google.com/notebook/1169d73f-ada6-44e3-8177-fe0b9fe43109?artifactId=263b5f00-c37d-4d6b-ae93-23f81ff7c40d)
+- [A slide deck with some interesting visuals](https://notebooklm.google.com/notebook/1169d73f-ada6-44e3-8177-fe0b9fe43109?artifactId=ac504325-b67c-4119-8edd-326fbf8cd7fd)
+
+See also the page on [Order principles](order.md).
+
 Taking a pragmatic stance, thermodynamic theory provides a consistent frame of reference that no other theory can provide: an agreed upon direction of time. This directionality of time allows us to go beyond the constraints imposed by the maze of self-referential circularity and complexity found in most realistic systems of interest. 
 
 A thermodynamic analysis is explicitly a macroscopic (probabilistic) approach that embraces the spatial, temporal and organisational complexity of systems, and so avoids the majority of difficulties associated with a reductionistic approach. However, the price of this simplicity (reduced degrees of freedom) is loss of the details: mechanisms and processes. Until both the micro- and the macro- are shown to be convergent, there will be little advancement.
