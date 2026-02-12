@@ -5,6 +5,8 @@ title: Order principles
 
 [Here is a reasonably self-contained summary of my current thoughts on this area.](https://www.biorxiv.org/content/10.1101/2023.11.28.569100v5) It follows up on the text below and pushes it to my limits. [A local copy can be found here](media/thermodynamics_onsager.pdf).
 
+And, for fun, [here you can find an audio-summary generated with Google NotebookLM](https://notebooklm.google.com/notebook/1169d73f-ada6-44e3-8177-fe0b9fe43109?artifactId=263b5f00-c37d-4d6b-ae93-23f81ff7c40d) which I find reasonably correct with minial hallucination. 
+
 
 ### The asymmetry of local-order and local-disorder - A holarchical/heirarchical perspective
 
