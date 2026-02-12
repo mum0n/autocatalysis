@@ -1,3 +1,4 @@
+# Query this site using Google's AI
 
 To enable the general public to query the contents of this site I have used Google NotebookLM to assimilate the contents and generate summary information. 
 
